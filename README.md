@@ -1,13 +1,13 @@
 # Building Management Website
 
 ## Admin Information
-- **Username**: Admin
-- **Password**: [Provide your password here]
+- **Email**: guardian@luxtower.com
+- **Password**:Lustower1234
 
 ## Live Site URL
 [Building Management Website](https://fluffy-gaufre-5d80b4.netlify.app/)
 
-## Homepage Picture
+## Homepage Banner Picture
 ![Homepage Screenshot](https://i.ibb.co/yhfhp7P/Screenshot-2024-06-11-021126.png)
 
 ## Website Features
